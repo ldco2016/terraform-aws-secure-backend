@@ -1,7 +1,7 @@
 # Terraform AWS Secure Backend (Healthcare-Oriented)
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
-![AWS](https://img.shileds.io/badge/AWS-Cloud-FF9900?logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazon-aws)
 ![S3](https://img.shields.io/badge/S3-State%20Backend-569A31?logo=amazon-s3)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-State%20Locking-4053D6?logo=amazon-dynamodb)
 ![KMS](https://img.shields.io/badge/KMS-Encryption-yellow)
