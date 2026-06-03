@@ -1,0 +1,17 @@
+# Lock bin channels and cache
+.terraform/
+
+# Crash logs
+crash.log
+crash.*
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+
+# MacOS specific files
+.DS_Store
+
+# Owner state files and backups
+*.tfstate
+*.tfstate.*
